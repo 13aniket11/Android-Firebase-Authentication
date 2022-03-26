@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288876548723",
+    "project_id": "react-authentication-a7963",
+    "storage_bucket": "react-authentication-a7963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288876548723:android:aa0e003ad4998afc1f1006",
+        "android_client_info": {
+          "package_name": "com.example.androidauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288876548723-4nvu3aqp52ejpsi4jup473kmrvg8kq6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBarP9tbzI587IK7Rn5dTb153zeAkzW-Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288876548723-4nvu3aqp52ejpsi4jup473kmrvg8kq6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
